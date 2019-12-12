@@ -1,4 +1,4 @@
 class CashRegister 
   
-  def 
+  attr_accessor :new
 end #end of class
